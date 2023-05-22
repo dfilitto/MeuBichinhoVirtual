@@ -1,3 +1,4 @@
+![](https://github.com/dfilitto/MeuBichinhoVirtual/blob/main/Material%20de%20apoio/Panda.jpg?raw=true)
 # Meu Bichinho Virtual
 Venha conhecer o incrível mundo dos bichinhos virtuais! Estou animado em anunciar que estou desenvolvendo um programa usando Unity, Maui e C# no modo console para criar uma experiência interativa e envolvente para os usuários.
 
