@@ -1,5 +1,7 @@
-![](https://github.com/dfilitto/MeuBichinhoVirtual/blob/main/Material%20de%20apoio/Panda.jpg?raw=true)
+![](https://raw.githubusercontent.com/dfilitto/MeuBichinhoVirtual/main/C-Sharp%20-%20Construindo%20um%20bichinho%20virtual.jpg)
+
 # Meu Bichinho Virtual
+
 Venha conhecer o incrível mundo dos bichinhos virtuais! Estou animado em anunciar que estou desenvolvendo um programa usando Unity, Maui e C# no modo console para criar uma experiência interativa e envolvente para os usuários.
 
 Com esse programa, você terá a oportunidade de cuidar do seu próprio bichinho virtual. Ele será seu companheiro virtual, e você terá a responsabilidade de alimentá-lo, dar banho e brincar com ele. Imagine ter um bichinho adorável na palma da sua mão, que precisa de seus cuidados e atenção para crescer feliz e saudável!
