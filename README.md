@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/dfilitto/MeuBichinhoVirtual/main/C-Sharp%20-%20Construindo%20um%20bichinho%20virtual.jpg)
+![](https://github.com/dfilitto/MeuBichinhoVirtual/blob/main/Construindo%20o%20mesmo%20jogo%20em%20v%C3%A1rias%20Game%20Engines.jpg?raw=true)
 
 # Meu Bichinho Virtual
 
