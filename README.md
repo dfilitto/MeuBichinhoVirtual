@@ -19,3 +19,10 @@ Publicar e Compartilhar Seu Jogo: Aprenda a exportar e publicar seu jogo para qu
 Com instruções passo a passo e exemplos práticos, este curso é perfeito para iniciantes e desenvolvedores de jogos aspirantes que desejam mergulhar no mundo da criação de jogos. Ao final deste curso, você terá as habilidades e a confiança necessárias para criar seus próprios jogos únicos e cativantes em Construct 3, GDevelop e Unity.
 
 Inscreva-se agora e comece sua jornada na criação de jogos hoje mesmo!
+
+## Links Importantes
+- [Construindo o mesmo jogo em várias Game Engines](https://www.udemy.com/course/draft/5943382/?referralCode=6A8892F55422FAE0ABA8)
+- [Construindo um Bichinho Virtual em C# Modo Console](https://www.youtube.com/playlist?list=PLfvOpw8k80WrK_gXfdANC_t8PdMgkcqvV)
+- [Unity - Construindo um bichinho virtual (Tamagotchi)](https://www.youtube.com/playlist?list=PLfvOpw8k80Wp6zICPJWWiQQSmWqD4Ah9V)
+- [GDevelop: Construindo um Bichinho Virtual (Tamagotchi)](https://www.youtube.com/playlist?list=PLfvOpw8k80Wq4u-893osNsGCcIeUiNEOP)
+- [Construct 3 - Construindo um Tamagotchi](https://www.youtube.com/playlist?list=PLfvOpw8k80WqVJAfxVbNrk0Caz-FhP5Qs)
