@@ -2,14 +2,20 @@
 
 # Meu Bichinho Virtual
 
-Venha conhecer o incrível mundo dos bichinhos virtuais! Estou animado em anunciar que estou desenvolvendo um programa usando Unity, Maui e C# no modo console para criar uma experiência interativa e envolvente para os usuários.
+Bem-vindo ao mundo da criação de jogos! Este curso é um guia abrangente para aprender a desenvolver seu próprio jogo estilo Tamagotchi em três das mais populares engines de desenvolvimento de jogos: Construct 3, GDevelop e Unity.
 
-Com esse programa, você terá a oportunidade de cuidar do seu próprio bichinho virtual. Ele será seu companheiro virtual, e você terá a responsabilidade de alimentá-lo, dar banho e brincar com ele. Imagine ter um bichinho adorável na palma da sua mão, que precisa de seus cuidados e atenção para crescer feliz e saudável!
+Você sempre quis criar seus próprios jogos, mas não sabe por onde começar? Este curso é perfeito para você! Ao longo deste curso, você irá:
 
-Usando a plataforma Unity, estou criando gráficos e animações encantadores para dar vida ao seu bichinho virtual. Você poderá interagir com ele através do console, fornecendo comandos simples para realizar tarefas como alimentá-lo com sua comida favorita, dar um banho refrescante e brincar de jogos divertidos juntos.
+Dominar as Noções Básicas de Desenvolvimento de Jogos: Explore os conceitos fundamentais por trás da criação de jogos programando seus jogos de maneira visual e usando umas das linguagens de programação mais utilizada do mercado, o C#.
 
-O uso do Maui, uma estrutura de interface do usuário multiplataforma, garantirá uma experiência de usuário intuitiva e amigável. Você terá acesso a controles simples e visualmente agradáveis, permitindo que você se concentre completamente na diversão de cuidar do seu bichinho virtual.
+Aprender a Utilizar Três Engines de Jogos Poderosas: Ganhe experiência prática com Construct 3, GDevelop e Unity, três das engines mais acessíveis e poderosas disponíveis para desenvolvedores de jogos.
 
-Além disso, o programa será desenvolvido usando C#, uma linguagem de programação poderosa e versátil. Isso nos permitirá criar uma lógica robusta por trás das interações com o bichinho, garantindo que suas ações e decisões tenham impacto direto no bem-estar e felicidade dele.
+Criar seu Próprio Tamagotchi do Zero: Siga passo a passo enquanto criamos juntos um jogo estilo Tamagotchi, onde você aprenderá a criar e personalizar seu próprio pet virtual, alimentá-lo, brincar com ele e muito mais.
 
-Estou empolgado em compartilhar essa jornada com você e oferecer a oportunidade de cuidar de um bichinho virtual tão especial. Fique atento para mais atualizações sobre o desenvolvimento e lançamento do programa. Em breve, você poderá mergulhar nessa experiência única de criar laços com seu bichinho virtual e desfrutar de momentos inesquecíveis juntos. Prepare-se para embarcar nessa aventura virtual cheia de diversão e carinho!
+Explorar Diferentes Abordagens de Desenvolvimento: Compare e contraste as diferentes abordagens de desenvolvimento oferecidas por cada engine, desde o design visual intuitivo até a programação mais avançada.
+
+Publicar e Compartilhar Seu Jogo: Aprenda a exportar e publicar seu jogo para que você possa compartilhá-lo com amigos, familiares e potenciais jogadores ao redor do mundo.
+
+Com instruções passo a passo e exemplos práticos, este curso é perfeito para iniciantes e desenvolvedores de jogos aspirantes que desejam mergulhar no mundo da criação de jogos. Ao final deste curso, você terá as habilidades e a confiança necessárias para criar seus próprios jogos únicos e cativantes em Construct 3, GDevelop e Unity.
+
+Inscreva-se agora e comece sua jornada na criação de jogos hoje mesmo!
